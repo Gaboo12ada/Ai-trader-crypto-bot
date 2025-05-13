@@ -5,15 +5,15 @@ What is it?
 This is a powerful, secure, and private AI designed to automate tasks, make decisions, and help you earn money — all without compromising your privacy. 🔒🧠
 
 Features 🌟
-Private & Secure 🔐: Your data stays confidential.
-Automated Profit Generation 💸: Works tirelessly to increase your income.
-Easy Setup & Use ⚙️: Get started quickly with minimal configuration.
-Customizable Workflows 🛠️: Tailor the AI to suit your specific needs.
-Self-Improving 📈: Learns and adapts over time for better results.
+1. Private & Secure 🔐: Your data stays confidential.
+2. Automated Profit Generation 💸: Works tirelessly to increase your income.
+3. Easy Setup & Use ⚙️: Get started quickly with minimal configuration.
+4. Customizable Workflows 🛠️: Tailor the AI to suit your specific needs.
+5. Self-Improving 📈: Learns and adapts over time for better results.
 How it works ⚙️
-Install the AI on your server or local machine. 🖥️
-Configure your profit-generating tasks or strategies. 📝
-Let the AI run autonomously, earning money on your behalf! 💵
+1. Install the AI on your server or local machine. 🖥️
+2. Configure your profit-generating tasks or strategies. 📝
+3. Let the AI run autonomously, earning money on your behalf! 💵
 Why choose our private AI? 🤔
 Because it works silently in the background, maximizing your profits while keeping everything private and secure! 🔒💼
 
