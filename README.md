@@ -10,12 +10,12 @@ Features 🌟
 3. Easy Setup & Use ⚙️: Get started quickly with minimal configuration.
 4. Customizable Workflows 🛠️: Tailor the AI to suit your specific needs.
 5. Self-Improving 📈: Learns and adapts over time for better results.
-6. -
+-
 How it works ⚙️
 1. Install the AI on your server or local machine. 🖥️
 2. Configure your profit-generating tasks or strategies. 📝
 3. Let the AI run autonomously, earning money on your behalf! 💵
-4. -
+-
 Why choose our private AI? 🤔
 Because it works silently in the background, maximizing your profits while keeping everything private and secure! 🔒💼
 
